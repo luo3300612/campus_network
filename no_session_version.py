@@ -2,8 +2,8 @@
 
 import requests
 
-username = "915113590117"
-password = "915113590117"
+username = "***"
+password = "***"
 
 
 url_code = "http://202.119.81.113:8080/verifycode.servlet"

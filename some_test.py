@@ -6,8 +6,8 @@ import requests
 from time import sleep
 
 path = "valcode.png"
-username = "91511359017"
-password = "91511359011"
+username = "***"
+password = "***"
 
 
 def recognizer():

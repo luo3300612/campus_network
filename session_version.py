@@ -17,7 +17,7 @@ import itertools
 
 
 path = "valcode.png"
-username = "9161010E0230"
+username = "*******"
 password = ""
 
 alter = 0.1
